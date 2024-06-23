@@ -3,7 +3,7 @@
 
 Conversor de moedas simples em Java, que utiliza a ExchangeRate-API para obter as taxas de câmbio em tempo real.
 
-![Thumb project][arrow-that-circle-cash-money-floating-on-transparent-mobile-banking-and-online-payment-service-cashback-and-refund-transfer-arrows-icon-and-currency-exchange-online-saving-dollar-3d-render-png](https://github.com/raikovisk/koinsconvert/assets/58261944/ed0ac3d5-890f-4ba7-b736-16dd04b4f305)
+![Thumb project](https://i.imgur.com/gp1e2mf.png)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
