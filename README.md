@@ -3,7 +3,8 @@
 
 Conversor de moedas simples em Java, que utiliza a ExchangeRate-API para obter as taxas de câmbio em tempo real.
 
-![Thumb project](https://i.imgur.com/gp1e2mf.png = 250x250)
+<img src="https://i.imgur.com/gp1e2mf.png" width="200" height="200" />
+
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
